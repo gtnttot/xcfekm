@@ -5,16 +5,16 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'c664751b-b662-48f9-b2aa-2f0d4d337a7f'}
 
 # 其他Paas保活
-PAAS1_URL=
-PAAS2_URL=
+PAAS1_URL=asdsa-fgs0xzbw.b4a.run
+PAAS2_URL=sy1r7h-3000.csb.app
 PAAS3_URL=
 PAAS4_URL=
 PAAS5_URL=
 PAAS6_URL=
 
 # koyeb账号保活
-KOYEB_ACCOUNT=
-KOYEB_PASSWORD=
+KOYEB_ACCOUNT=gitglb123@outlook.com
+KOYEB_PASSWORD=8HgXWKkIUhgq6JUpRnU0
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
 ARGO_AUTH=''
